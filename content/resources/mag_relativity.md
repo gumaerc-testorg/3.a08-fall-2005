@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 05fde4f1-28f6-d302-e7f6-e16a24a20bce
 resourcetype: Document
 title: Magnetism and Relativity
 uid: 8b381002-f655-84ae-f2ba-0b42339868aa

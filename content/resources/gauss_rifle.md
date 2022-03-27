@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 05fde4f1-28f6-d302-e7f6-e16a24a20bce
 resourcetype: Document
 title: The "Gauss Rifle"
 uid: 234b1fdf-3985-fbb9-b446-0a162f8522d9

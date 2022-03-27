@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 01bc1582-a428-66aa-0946-d41bd9989915
 resourcetype: Document
 title: Magnetic Materials Overview
 uid: ce902865-3231-6e4a-d281-24407aac22b6
