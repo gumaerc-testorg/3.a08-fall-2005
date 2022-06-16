@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -106,6 +108,6 @@ Students gave presentations on the following topics:
 {{< anchor "Examples_of_Research_Papers" >}}{{< /anchor >}}Examples of Research Papers
 --------------------------------------------------------------------------------------
 
-Magnetism and Relativity ([PDF]({{< baseurl >}}/resources/mag_relativity)) (Courtesy of Robert Moffatt. Used with permission.)
+Magnetism and Relativity ({{% resource_link 8b381002-f655-84ae-f2ba-0b42339868aa "PDF" %}}) (Courtesy of Robert Moffatt. Used with permission.)
 
-The "Gauss Rifle" ([PDF]({{< baseurl >}}/resources/gauss_rifle)) (Courtesy of Meghan Reedy. Used with permission.)
+The "Gauss Rifle" ({{% resource_link 234b1fdf-3985-fbb9-b446-0a162f8522d9 "PDF" %}}) (Courtesy of Meghan Reedy. Used with permission.)
