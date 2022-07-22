@@ -5,6 +5,7 @@ file: /courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/234
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The "Gauss Rifle"
 uid: 234b1fdf-3985-fbb9-b446-0a162f8522d9
 ---
 Student paper on Gauss rifles.
-

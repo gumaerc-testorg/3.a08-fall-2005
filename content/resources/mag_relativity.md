@@ -5,6 +5,7 @@ file: /courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/8b3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Magnetism and Relativity
 uid: 8b381002-f655-84ae-f2ba-0b42339868aa
 ---
 Student research paper on magnetism and relativity.
-
