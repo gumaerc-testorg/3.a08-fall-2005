@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section presents the readings assigned for each class session, followed
+  by a few background readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 01bc1582-a428-66aa-0946-d41bd9989915
 ---
@@ -184,7 +189,7 @@ Wrap-up
 {{< anchor "Background_Readings" >}}{{< /anchor >}}Background Readings
 ----------------------------------------------------------------------
 
-Magnetic Materials Overview ([PDF]({{< baseurl >}}/resources/magnet_basics))
+Magnetic Materials Overview ({{% resource_link ce902865-3231-6e4a-d281-24407aac22b6 "PDF" %}})
 
 Livingston, J. D. "The Force Is With Us." In _Britannica Yearbook of Science and the Future._ Chicago, IL: Encyclopedia Britannica, 1999, pp. 132-147.
 
