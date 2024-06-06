@@ -2,6 +2,7 @@
 content_type: resource
 description: Student research paper on magnetism and relativity.
 file: /courses/3-a08-attraction-and-repulsion-the-magic-of-magnets-fall-2005/8b381002f65584aef2ba0b42339868aa_mag_relativity.pdf
+file_size: 115148
 file_type: application/pdf
 learning_resource_types:
 - Assignments
