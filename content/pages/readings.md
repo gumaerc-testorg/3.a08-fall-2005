@@ -53,7 +53,7 @@ Magnetic Forces and Curie Temperatures
 {{< tdopen >}}
 _Driving Force_. Chapter 10.  
   
-[Magnetic Levitation](http://hyperphysics.phy-astr.gsu.edu/hbase/solids/maglev.html)
+{{% resource_link "2746c26f-bf49-46eb-87b5-ef07974ff1d9" "Magnetic Levitation" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +167,7 @@ Magnets in NMR, EPR, Mass Spectroscopy
 Ferrofluids
 {{< tdclose >}}
 {{< tdopen >}}
-Ferrotec's [Ferrofluid Technology Overview](http://www.ferrotec.com/technology/) Web site, or other Web sites on ferrofluids. Magnetic microparticles have also found many uses in medicine, including localized drug delivery (see p. 222 of _Driving Force_).
+Ferrotec's {{% resource_link "ca753570-ed48-4e7f-bf07-4febee1462f8" "Ferrofluid Technology Overview" %}} Web site, or other Web sites on ferrofluids. Magnetic microparticles have also found many uses in medicine, including localized drug delivery (see p. 222 of _Driving Force_).
 {{< tdclose >}}
 
 {{< trclose >}}
