@@ -58,7 +58,7 @@ Dr. James Livingston
 {{< tdclose >}}{{< tdopen >}}
 Magnetic Forces and Curie Temperatures
 {{< tdclose >}}{{< tdopen >}}
-Visit: {{% resource_link "198e84cf-73ee-42f4-be5c-2fc59af53c41" "MIT Plasma Science and Fusion Center" %}}. See demonstrations of Curie temperature, induction, levitation, plasma control, etc. by MIT's "Mr. Magnet."
+Visit: [MIT Plasma Science and Fusion Center](http://www.psfc.mit.edu/). See demonstrations of Curie temperature, induction, levitation, plasma control, etc. by MIT's "Mr. Magnet."
 {{< tdclose >}}{{< tdopen >}}
 Paul Thomas
 {{< tdclose >}}{{< tdopen >}}
@@ -78,7 +78,7 @@ Assignment 2 due
 {{< tdclose >}}{{< tdopen >}}
 Magnetic Data Recording
 {{< tdclose >}}{{< tdopen >}}
-Visit: Prof. Ross's {{% resource_link "e9f8807b-3ea3-40f9-b2be-ba4a9124a053" "Magnetic Materials and Devices Group" %}}. Discuss magnetic recording materials and systems, hard disks, other forms of data recording.
+Visit: Prof. Ross's [Magnetic Materials and Devices Group](http://caross.mit.edu/). Discuss magnetic recording materials and systems, hard disks, other forms of data recording.
 {{< tdclose >}}{{< tdopen >}}
 Prof. Caroline Ross, Department of Materials Science and Engineering
 {{< tdclose >}}{{< tdopen >}}
@@ -98,7 +98,7 @@ Assignment 4 due
 {{< tdclose >}}{{< tdopen >}}
 Brain Magnetic Fields
 {{< tdclose >}}{{< tdopen >}}
-Visit: {{% resource_link "63456825-9800-4685-8d0c-aaa32efc7c1d" "Magnetoencephalography Lab" %}}. See how a magnetically shielded room and SQUIDs are used measure the magnetic fields produced by the human brain.
+Visit: [Magnetoencephalography Lab](http://web.mit.edu/kitmitmeg/whatis.html). See how a magnetically shielded room and SQUIDs are used measure the magnetic fields produced by the human brain.
 {{< tdclose >}}{{< tdopen >}}
 Prof. Alec Marantz, Department of Linguistics
 {{< tdclose >}}{{< tdopen >}}
@@ -120,7 +120,7 @@ Magnets in Cyclotrons, CERN, and Space
 {{< tdclose >}}{{< tdopen >}}
 Visit: Cyclotron Building. Perform hands-on experiments in the large cyclotron magnet, directly seeing and feeling the effects of large magnetic fields on conductors. Learn about their space-based and land-based research employing magnets.
 {{< tdclose >}}{{< tdopen >}}
-Dr. Ben Monreal, Electromagnetics Group of the {{% resource_link "918b828d-b7f1-4593-8e12-2dea67458094" "Laboratory for Nuclear Science" %}}
+Dr. Ben Monreal, Electromagnetics Group of the [Laboratory for Nuclear Science](http://web.mit.edu/lns/)
 {{< tdclose >}}{{< tdopen >}}
 Assignment 6 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -138,7 +138,7 @@ Students
 {{< tdclose >}}{{< tdopen >}}
 Magnets in NMR, EPR, Mass Spectroscopy
 {{< tdclose >}}{{< tdopen >}}
-Visit: Chemistry Department's {{% resource_link "27e8a7f1-8e0a-4003-8185-ef87adb415a6" "Instrumentation Facility" %}}. See a collection of large superconducting electromagnets used for NMR and learn how they are used to analyze molecular structure.
+Visit: Chemistry Department's [Instrumentation Facility](https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/). See a collection of large superconducting electromagnets used for NMR and learn how they are used to analyze molecular structure.
 {{< tdclose >}}{{< tdopen >}}
 Dr. Hyongjun Pan
 {{< tdclose >}}{{< tdopen >}}
@@ -151,7 +151,7 @@ Ferrofluids
 
 Begin with experiments on ferrofluids (suspensions of fine magnetic particles in liquids).
 
-Visit: Prof. Doyle's {{% resource_link "1a290dec-840b-42f0-baa5-fbc2e2cc3e8a" "Dynamics of Biopolymers and Complex Fluids" %}} laboratory, where they have employed magnetic microparticles for DNA separation.
+Visit: Prof. Doyle's [Dynamics of Biopolymers and Complex Fluids](http://web.mit.edu/doylegroup/) laboratory, where they have employed magnetic microparticles for DNA separation.
 
 {{< tdclose >}}{{< tdopen >}}
 Prof. Patrick Doyle, Department of Chemical Engineering
